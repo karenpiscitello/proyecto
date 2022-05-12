@@ -1,0 +1,21 @@
+[
+    {                                                                                                                                                    
+        title: 'Chapulin y thor',                                                                                                                                 
+        price: 2500,                                                                                                                                     
+        thumbnail: 'https://res.cloudinary.com/karenp/image/upload/v1642121476/productos/WhatsApp_Image_2021-12-28_at_5.25.23_PM_mwbwlb.jpg',                                     
+        id: 1                                                                                                                                              
+      },                                                                                                                                                   
+      {                                                                                                                                                    
+        title: 'Thanos',                                                                                                                              
+        price: 2700,                                                                                                                                     
+        thumbnail: 'https://res.cloudinary.com/karenp/image/upload/v1642121476/productos/WhatsApp_Image_2021-12-28_at_5.25.22_PM_ie1yay.jpg',                                          
+        id: 2                                                                                                                                              
+      },                                                                                                                                                   
+      {                                                                                                                                                    
+        title: 'Princeso',                                                                                                                          
+        price: 2600,                                                                                                                                     
+        thumbnail: 'https://res.cloudinary.com/karenp/image/upload/v1642121476/productos/WhatsApp_Image_2021-12-28_at_5.25.21_PM_lhut70.jpg',                                   
+        id: 3                                                                                                                                              
+      }
+  
+]
